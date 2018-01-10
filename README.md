@@ -1,7 +1,15 @@
 # MachineLearningDemo
 保存个人机器学习代码，对应博客专栏 ：http://blog.csdn.net/YEN_CSDN/article/category/6725711
 
-## 算法
-#### 决策树：
- 代码：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/Decision_Tree
- 博客：http://blog.csdn.net/yen_csdn/article/details/79012871#%E4%BB%A3%E7%A0%81
+## 算法列表：
+#### 决策树算法：
+ > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/Decision_Tree
+ 
+ > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79012871
+ 
+ #### KNN算法：
+  > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/K-NearestNerghbor
+ 
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79022831
+  
+  
