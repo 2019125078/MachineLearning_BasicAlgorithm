@@ -12,4 +12,8 @@
  
   > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79022831
   
+   #### SVM算法：
+  > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/SVM
+ 
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79033742
   
