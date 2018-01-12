@@ -52,7 +52,7 @@ pl.plot(xx,yy_up,'k--')
 pl.plot(xx,yy_down,'k--')
 
 # 画出周围的点
-pl.scatter(clf.support_vectors_[:0],clf.support_vectors_[:1],s=80,facecolors='none')
+pl.scatter(clf.support_vectors_[:,0],clf.support_vectors_[:,1],s=80,facecolors='none')
 pl.scatter(X[:,0],X[:,1],c=Y,cmap=pl.cm.Paired)
 
 pl.axis('tight')
