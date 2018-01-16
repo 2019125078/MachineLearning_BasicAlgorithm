@@ -15,5 +15,14 @@
    #### SVM算法：
   > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/SVM
  
-  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79033742
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79033742（linear separable）
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79043192（linear inseparable）
   
+  #### 神经网络算法：
+ 
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79063768
+  
+  #### 简单线性回归算法：
+  > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/SimpleLinearRegression
+
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79074288
