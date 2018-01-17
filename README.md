@@ -26,3 +26,8 @@
   > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/SimpleLinearRegression
 
   > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79074288
+  
+  #### 多元线性回归算法：
+  > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/MultipleRegression
+
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79086067
