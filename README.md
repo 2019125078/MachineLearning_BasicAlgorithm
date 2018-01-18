@@ -31,3 +31,8 @@
   > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/MultipleRegression
 
   > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79086067
+   
+  #### 非线性回归-逻辑回归算法：
+  > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/LogisticRegression
+
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79095362
