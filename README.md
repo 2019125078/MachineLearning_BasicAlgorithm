@@ -36,3 +36,8 @@
   > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/LogisticRegression
 
   > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79095362
+  
+   #### 回归中的相关性和R平方值算法：
+  > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/CorrelationCoefficient
+
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79105846
