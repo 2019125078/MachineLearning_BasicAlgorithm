@@ -47,3 +47,8 @@
   > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/Kmeans
 
   > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79114677
+
+   #### Hierarchical clustering层次聚类算法：
+  > 代码及数据：https://github.com/YEN-GitHub/MachineLearningDemo/tree/master/HierarchicalClustering
+
+  > 博客及结果：http://blog.csdn.net/yen_csdn/article/details/79119777
